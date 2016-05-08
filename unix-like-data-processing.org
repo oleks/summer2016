@@ -1,0 +1,18 @@
+#+TITLE: Unix-Like Data Processing
+
+Inspiration: [[http://atu15.onlineta.org/unix-like-data-processing.pdf][ATU
+15]].
+
+* Abstract
+
+All you need to bring is a computer with a physical keyboard and a modern web
+browser (not a tablet).  We will provide a Linux machine you can use directly
+via your browser.
+
+* Contents
+** Operating Systems
+** Shell 101
+** More Data For Your Shell
+** Advanced Data Manipulation
+** Structured Data Manipulation
+** Plotting
