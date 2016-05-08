@@ -5,9 +5,8 @@ Inspiration: [[http://atu15.onlineta.org/unix-like-data-processing.pdf][ATU
 
 * Abstract
 
-All you need to bring is a computer with a physical keyboard and a modern web
-browser (not a tablet).  We will provide a Linux machine you can use directly
-via your browser.
+All you need to bring is a modern computer with a physical keyboard (not a
+tablet).  We will provide access to a Linux machine directly via your browser.
 
 * Contents
 ** Operating Systems
