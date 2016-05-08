@@ -15,8 +15,8 @@ Write programs to handle text streams, because that is a universal interface."
 The purpose of this informal summer course is to introduce to this philosphy of
 using the computer. This philosophy is probably quite different from what you
 are accustomed to, but puts great power at your fingertips. Most of the
-problems we present, typically demand many lines of code in any conventional
-programming language (e.g., Python).
+problems we present, typically demand many lines of code in any concievable,
+conventional programming language, even Python.
 
 All you need to bring is a modern computer with a physical keyboard (not a
 tablet).  We will provide access to a Linux machine directly via your web
